@@ -1,0 +1,23 @@
+create-react-app nomedoprojeto --template=typescript
+
+remover:
+
+readme
+app.css
+app.test
+index.css
+logo.svg
+serviceworker
+limpar os arquivos
+favicon
+logo192
+logo512
+manifest.json
+
+configurar eslint e prettier
+
+yarn add react-router-dom
+yarn add @types/react-router-dom -D
+yarn add styled-components
+yarn add @types/styled-components -D
+yarn add axios
